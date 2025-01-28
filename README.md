@@ -24,3 +24,25 @@ Ensure you have the following installed:
 
 2. Navigate to the project directory:
 
+   ```sh
+   cd hng-12-stage0
+
+3. Install dependencies:
+
+   ```sh
+   npm install
+
+4. Create a .env file in the root directory and define the following variable:
+
+   ```sh
+   PORT=3000
+
+5. Start server with:
+
+   ```sh
+   npm run dev
+
+
+
+
+
