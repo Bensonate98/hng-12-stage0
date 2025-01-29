@@ -1,4 +1,4 @@
-# Express API with CORS and Environment Variables
+# A simple express API
 
 This is a simple Express.js API that returns a JSON response containing an email, the current date and time, and a GitHub URL.
 
@@ -46,11 +46,11 @@ The server will run on http://localhost:3000
 
 ## API Documentation
 
-Base URL: http://localhost:3000
+Base URL: https://ben-stage0.vercel.app/
 
 Endpoints: 
 
-GET http://localhost:3000/
+GET https://ben-stage0.vercel.app/
 
 Description: Returns a JSON response with metadata, including an email, the current date and time, and a GitHub URL.
 
