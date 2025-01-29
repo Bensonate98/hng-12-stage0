@@ -67,7 +67,7 @@ Response Body:
 {
   "email": "bensonate98@gmail.com",
   "current_datetime": "2025-01-28T12:00:00.000Z",
-  "github_url": "<https://github.com/Bensonate98/hng-12-stage0>"
+  "github_url": "https://github.com/Bensonate98/hng-12-stage0"
 }
 
 
