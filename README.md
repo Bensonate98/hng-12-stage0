@@ -46,14 +46,11 @@ The server will run on http://localhost:3000
 
 ## API Documentation
 
-### Base URL
+Base URL: http://localhost:3000
 
-```sh
-   http://localhost:3000
+Endpoints: 
 
-### Endpoints
-
-GET http://localhost:3000
+GET http://localhost:3000/
 
 Description: Returns a JSON response with metadata, including an email, the current date and time, and a GitHub URL.
 
