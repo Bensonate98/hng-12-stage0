@@ -42,6 +42,38 @@ Ensure you have the following installed:
    ```sh
    npm run dev
 
+The server will run on http://localhost:3000
+
+## API Documentation
+
+### Base URL
+
+```sh
+   http://localhost:3000
+
+### Endpoints
+
+GET http://localhost:3000
+
+Description: Returns a JSON response with metadata, including an email, the current date and time, and a GitHub URL.
+
+Request:
+This endpoint does not require any request body or parameters.
+
+Response:
+
+Status Code: 200 OK
+
+Response Body:
+
+ ```sh
+{
+  "email": "bensonate98@gmail.com",
+  "current_datetime": "2025-01-28T12:00:00.000Z",
+  "github_url": "https://github.com/Bensonate98/hng-12-stage0"
+}
+
+
 
 
 
