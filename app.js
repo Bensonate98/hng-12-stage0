@@ -14,7 +14,7 @@ app.use("/", (req, res)=>{
   const data = {
     email: "bensonate98@gmail.com",
     current_datetime: date.toISOString(),
-    github_url: "https://github.com/Bensonate98/hng-12-stage0"
+    github_url: "<https://github.com/Bensonate98/hng-12-stage0>"
   };
 
   res.status(200).json(data);
