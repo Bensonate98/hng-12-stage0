@@ -9,7 +9,7 @@ const PORT = process.env.PORT
 app.use(cors());
 
 // routes
-app.use("/", (req, res)=>{
+app.get("/", (req, res)=>{
   const date = new Date();
   const data = {
     email: "bensonate98@gmail.com",
